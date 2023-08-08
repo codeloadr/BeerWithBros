@@ -1,2 +1,2 @@
 # BeerWithBros
-Mvvm (RecyclerView + Flow + StateFlow)
+Mvvm (PagingLibrary3 + Flow + StateFlow)
